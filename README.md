@@ -9,7 +9,7 @@ Sidequest is a webapp that helps people discover interesting things happening ar
 5. Clean and easy-to-use map
 
 # Project Scope
-This version of "SideQuests" is a MVP designed to demonstrate the core idea (Discovering interesting neaby places through a simple map interface)
+This version of "SideQuests" is a MVP designed to demonstrate the core idea (Discovering interesting nearby places through a simple map interface)
 Full version includes:
 - Custom user profiles and interest tracking
 - Real-time notifications for nearby posts
